@@ -1,62 +1,247 @@
 # Roger Crosby
 
-**Human-gated artificial-intelligence systems · operational documentation · evaluation · creative systems**
+## AI Workflow Governance & Documentation Systems Specialist
 
-I am an Ottawa-based systems builder and operational writer. I turn ambiguous ideas, repeated failures, practical experience, and large bodies of source material into structures that people can inspect, test, operate, and improve.
+**Human oversight · operational quality · knowledge architecture · evidence and provenance · controlled artificial-intelligence workflows**
 
-My work focuses on narrow agent roles, explicit authority boundaries, evidence, handoffs, stop conditions, quality gates, and keeping consequential decisions under human control.
+I am an Ottawa-based systems builder and operational writer. I turn ambiguous ideas, repeated failures, practical experience, and large bodies of source material into structures that people can inspect, test, operate, maintain, and improve.
 
-**Available for remote contract work and project-based collaboration.**
+My work focuses on the layer between artificial-intelligence capability and human accountability:
 
-[Email me](mailto:info@paranoidpeoplelivelonger.com) · [Public portfolio](https://github.com/RexPiperisOlem/PPLL-Signal-Archive) · [Paranoid People Live Longer](https://paranoidpeoplelivelonger.com)
+- defining narrow roles and authority boundaries;
+- turning loose requests into executable work orders;
+- creating review gates and acceptance criteria;
+- preserving sources, versions, and provenance;
+- documenting failures so the system does not pay for the same lesson repeatedly;
+- translating complex internal capability into truthful external language;
+- keeping consequential decisions under human control.
 
-## Featured work
+I am not presenting myself as a machine-learning engineer or autonomous-agent developer. My strongest work is the operating and documentation layer that makes AI-assisted work understandable, reviewable, recoverable, portable, and useful under pressure.
+
+**Available for remote contract work, specialist projects, advisory work, and unusual full-time roles.**
+
+[Email](mailto:info@paranoidpeoplelivelonger.com) · [Public portfolio](https://github.com/RexPiperisOlem/PPLL-Signal-Archive) · [Paranoid People Live Longer](https://paranoidpeoplelivelonger.com)
+
+## What I build
+
+### Human-gated AI workflows
+
+Systems in which artificial intelligence performs bounded labour while a human retains authority, responsibility, approval, and the ability to stop or recover the work.
+
+Typical components include:
+
+- intake records;
+- work orders;
+- agent or role definitions;
+- structured handoffs;
+- gate levels;
+- review and repair loops;
+- run ledgers;
+- incident and failure records;
+- version and provenance controls;
+- explicit stop conditions.
+
+### Documentation architecture
+
+Connected document systems that turn scattered knowledge into durable operating infrastructure:
+
+- Field Manuals;
+- standard operating procedures;
+- operator cards;
+- glossaries;
+- decision trees;
+- checklists;
+- review standards;
+- source maps;
+- status and risk vocabularies;
+- maintenance and revision rules.
+
+### Workflow verification and quality control
+
+Processes that distinguish a platform saying “complete” from work that is actually correct, attached, usable, current, and ready for the next step.
+
+This includes:
+
+- acceptance criteria;
+- model-output evaluation;
+- source and claim checks;
+- wrong-file and wrong-version prevention;
+- duplicate and attachment checks;
+- rollback and recovery procedures;
+- evidence-backed status reporting;
+- separating blocking defects from optional improvements.
+
+### Knowledge recovery and capability translation
+
+Methods for recovering useful operating logic from old documents, failed projects, procedural residue, and large archives—then explaining the real capability without inventing credentials or pretending design work is enterprise deployment.
+
+## Featured proof of work
 
 ### [Human-Gated Agent System](https://github.com/RexPiperisOlem/human-gated-agent-system)
 
-A complete public reference architecture for twelve narrow artificial-intelligence agents. It includes defined inputs and outputs, structured handoffs, evidence gates, approval levels, tests, documentation, and an explicit rule that consequential authority remains with a human operator.
+A complete public reference architecture for twelve narrow artificial-intelligence agents.
 
-**Demonstrates:** agent workflow architecture, governance, quality control, documentation, provenance, and human-oversight design.
+The repository includes:
+
+- a universal six-agent control loop;
+- an optional five-agent collection-management branch;
+- a cross-cutting voice and style router;
+- defined inputs, outputs, handoffs, and stop conditions;
+- evidence and quality gates;
+- gate levels for internal work, review, action, and blocked actions;
+- shared schemas, templates, status codes, and risk codes;
+- a local validation utility;
+- unit tests and repository checks;
+- fictional examples and a documented sanitization boundary.
+
+**Demonstrates:** AI workflow governance, human oversight, role separation, documentation architecture, quality assurance, provenance, testing, controlled system change, and public-safe conversion of a private method.
 
 ### [Kaomoji Emotional Confusion Engine](https://github.com/RexPiperisOlem/kaomoji-engine)
 
-A small working Python engine that repeatedly mutates symbolic faces through four bounded cycles. The repository includes executable code, tests, operating instructions, and a design note that accurately describes what the engine does and does not do.
+A small working Python engine that repeatedly mutates symbolic faces through four bounded cycles.
 
-**Demonstrates:** prototyping, bounded state, testing, technical explanation, and turning an unusual idea into a working artifact.
+The repository includes executable standard-library code, deterministic and finite run options, bounded state, tests, command-line documentation, and an implementation note that accurately describes what the system does and does not do.
+
+**Demonstrates:** prototyping, bounded state, deterministic testing, technical explanation, scope control, and the ability to turn an unusual conceptual idea into a working artifact.
 
 ### [Published Documents](https://github.com/RexPiperisOlem/Notes)
 
-Finished public work covering artificial intelligence, cognition, recipe-production methodology, operational systems, speculative futures, and experimental literature.
+A public shelf of substantial finished work in artificial intelligence, cognition, recipe-production methodology, operational systems, speculative futures, and experimental literature.
 
-**Demonstrates:** long-form analysis, production documentation, structured thinking, voice control, and completing substantial artifacts.
+The collection includes:
+
+- **The Dark Cognitive Manual**;
+- **Sixty AI Futures**;
+- **The Recipe Writing Production Guide**;
+- **A Zoo at the End of Winter**;
+- **Character Study**.
+
+**Demonstrates:** long-form analysis, Field Manual construction, subject-matter translation, scenario thinking, distinct voice systems, literary architecture, and completion of substantial public artifacts.
 
 ### [PPLL Signal Archive](https://github.com/RexPiperisOlem/PPLL-Signal-Archive)
 
-The main public index connecting the systems, documents, creative work, storefront, and controlled public boundary of Paranoid People Live Longer.
+The main public index connecting released systems, documents, creative work, professional proof, the PPLL website, and the controlled boundary between public artifacts and the private production archive.
 
-## Areas of work
+## Selected internal systems and operating work
 
-- Artificial-intelligence evaluation and human feedback
-- Human-gated agent and workflow design
-- Operational documentation and knowledge systems
-- Acceptance criteria, quality gates, and evidence handling
-- Rubric creation and structured review
+The public repositories show only part of the larger working practice. Additional inspectable or sanitizable work includes:
+
+- a twelve-agent private operating framework with intake, work orders, review, versioning, and run ledgers;
+- a multi-document voice and identity control stack;
+- read-only first-pass file inventory and recovery logic;
+- digital-product identity, attachment, version, test-order, and rollback procedures;
+- classification and preservation rules for a 486-piece physical art archive;
+- more than one hundred products and related assets managed through a creative and commercial operating system;
+- coordinated doctrine covering strategic option preservation, human–machine authority, provenance-led research, value recovery, and evidence-backed capability translation.
+
+Private source documents, personal records, customer information, production Bibles, and unreleased systems are not posted publicly.
+
+## Core capabilities
+
+- Artificial-intelligence workflow governance
+- Human-in-the-loop and human-oversight design
+- Model-output evaluation and quality assurance
+- Documentation and knowledge architecture
+- Source tracking, provenance, and evidence grading
+- Standard operating procedures and Field Manuals
+- Process mapping and handoff design
+- Failure analysis and incident learning
+- Version control and controlled change
+- Capability translation and claims discipline
+- Accessibility-aware, low-friction workflow design
 - Technical and plain-language writing
-- Creative systems, conceptual prototypes, and worldbuilding
-- Converting practical experience into reusable processes
+- Operational research and synthesis
+- Creative systems and conceptual prototypes
+
+## Problems I am built to solve
+
+I work best when the problem is real but not yet cleanly named.
+
+Examples:
+
+- a team is using AI but nobody can explain what was actually checked;
+- knowledge lives in chats, screenshots, scattered files, and people’s memories;
+- an agent or workflow has unclear responsibility and approval boundaries;
+- the same mistake keeps happening without becoming a system improvement;
+- an old, fragmented, or abandoned body of material contains useful operating logic;
+- documentation technically exists but cannot be followed under real conditions;
+- a complex capability is valuable internally but sounds strange or inflated when described publicly;
+- a workflow assumes perfect stamina, easy mouse use, and unlimited manual repair.
 
 ## How I work
 
-- Define the job before executing it.
-- Preserve source material and distinguish evidence from interpretation.
-- Make roles, inputs, outputs, and stop conditions explicit.
-- Test the artifact rather than trusting the description.
-- Keep public material separate from private production systems.
-- Require human approval for consequential external actions.
-- Treat failure as information that improves the next version.
+1. **Define the actual job before executing it.**
+2. **Build the container before producing volume.**
+3. **Preserve source material and earlier versions.**
+4. **Separate evidence, inference, recommendation, and speculation.**
+5. **Make roles, inputs, outputs, gates, and stop conditions explicit.**
+6. **Test the artifact instead of trusting the description.**
+7. **Record failure and convert repeated failure into a control.**
+8. **Keep public material separate from private production systems.**
+9. **Require target-specific human approval for consequential external action.**
+10. **Make the strongest claim the evidence supports—and stop there.**
+
+## Professional background
+
+Before moving into AI-assisted systems and documentation work, I spent more than twenty years in food service and hospitality.
+
+Professional kitchens and service operations taught me that:
+
+- timing is part of quality;
+- vague instructions fail under pressure;
+- handoffs matter;
+- sanitation and safety cannot be implied;
+- a beautiful plan is worthless if an operator cannot execute it;
+- failures must be recovered from immediately and examined later;
+- systems matter more than polished language.
+
+I hold three diplomas from Algonquin College of Applied Arts and Technology in Ottawa:
+
+- Culinary Management;
+- Business Management and Entrepreneurship;
+- Hotel and Restaurant Operations Management.
+
+That background now feeds the way I build documentation, workflows, review systems, and practical controls.
+
+## Best-fit work
+
+The strongest fit is remote, document-first, result-based work involving:
+
+- AI workflow governance or responsible-AI operations;
+- human oversight and approval architecture;
+- documentation and knowledge operations;
+- model evaluation and quality review;
+- workflow mapping and failure analysis;
+- standard operating procedure development;
+- source, provenance, and traceability controls;
+- public-safe conversion of complex internal systems;
+- specialist support for AI governance, privacy, compliance, cybersecurity, accessibility, documentation, or transformation teams;
+- unusual project work where conventional job titles do not describe the actual problem.
+
+I am especially useful on a bounded first engagement: one process, one pain point, one current-state map, one set of controls, and a result that can be inspected.
+
+## Boundaries
+
+Credibility depends on stating what the work is not.
+
+I do not claim:
+
+- machine-learning engineering experience;
+- production cloud or model deployment expertise;
+- legal, audit, clinical, or regulatory authority;
+- enterprise implementation where the evidence is internal design and operation;
+- that artificial intelligence output is reliable without review;
+- that a title can substitute for inspectable proof;
+- guaranteed business outcomes before they have been measured.
+
+I can work alongside technical, legal, privacy, security, compliance, preservation, or domain specialists by building the operating and documentation layer around their expertise.
 
 ## Contact
 
-For remote contract work, project collaboration, artificial-intelligence evaluation, documentation, or systems work:
+For remote contract work, project collaboration, artificial-intelligence evaluation, workflow governance, documentation architecture, operational writing, or systems work:
 
 **[info@paranoidpeoplelivelonger.com](mailto:info@paranoidpeoplelivelonger.com)**
+
+Public portfolio: [PPLL Signal Archive](https://github.com/RexPiperisOlem/PPLL-Signal-Archive)  
+Website: [Paranoid People Live Longer](https://paranoidpeoplelivelonger.com)  
+Location: Ottawa, Ontario, Canada
