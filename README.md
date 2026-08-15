@@ -12,6 +12,7 @@ My work focuses on the layer between artificial-intelligence capability and huma
 - turning loose requests into executable work orders;
 - creating review gates and acceptance criteria;
 - preserving sources, versions, and provenance;
+- controlling behavioural state, mode, and verification through external operating documents;
 - documenting failures so the system does not pay for the same lesson repeatedly;
 - translating complex internal capability into truthful external language;
 - keeping consequential decisions under human control.
@@ -41,6 +42,22 @@ Typical components include:
 - version and provenance controls;
 - explicit stop conditions.
 
+### Behavioural control and continuity systems
+
+External operating structures for making preferred human-AI working conditions explicit, testable, recoverable, and portable across changing models or sessions.
+
+The work can include:
+
+- state integrity across conversation, task, artifact, source, tool, and completion state;
+- mode detection and response-scale control;
+- separation of conversational familiarity from verified current state;
+- evidence-backed capability and completion claims;
+- behavioural drift and contamination analysis;
+- calibration and repair logic;
+- deliberate boundaries between model capacity, platform constraints, and controllable operating conditions.
+
+This is **external behavioural control**, not a claim of model-weight modification or hidden access to model internals.
+
 ### Documentation architecture
 
 Connected document systems that turn scattered knowledge into durable operating infrastructure:
@@ -48,6 +65,7 @@ Connected document systems that turn scattered knowledge into durable operating 
 - Field Manuals;
 - standard operating procedures;
 - operator cards;
+- Systems Papers;
 - glossaries;
 - decision trees;
 - checklists;
@@ -76,6 +94,30 @@ This includes:
 Methods for recovering useful operating logic from old documents, failed projects, procedural residue, and large archives—then explaining the real capability without inventing credentials or pretending design work is enterprise deployment.
 
 ## Featured proof of work
+
+### [Systems Papers](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers)
+
+A public proof-of-work series that explains built systems without publishing the complete private operating package.
+
+The first paper, **[Rebuilding the Room — Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room)**, documents an external behavioural-control architecture developed to preserve useful human-AI working conditions across model changes.
+
+The paper covers:
+
+- the distinction between model capacity, platform constraints, and controllable operating conditions;
+- behaviour as more than voice or persona;
+- character and truth as paired requirements;
+- state integrity across conversation, task, artifact, source, tool, and completion state;
+- mode and response-scale control;
+- evidence-backed claims about memory, tools, progress, and completion;
+- behavioural drift and contamination;
+- high-level calibration and recovery logic;
+- explicit human authority and known limitations.
+
+The public edition deliberately withholds raw calibration transcripts, private examples, exact activation and reset blocks, internal control Bibles, the complete reusable test suite, detailed implementation sequences, and consulting-delivery machinery.
+
+**Demonstrates:** AI workflow governance, behavioural architecture, state integrity, calibration thinking, evidence discipline, failure-to-control translation, and the ability to make a private operating system publicly legible without giving away the complete engine.
+
+**Does not claim:** modification of model weights, hidden model access, restoration of unavailable capabilities, or a jailbreak.
 
 ### [Human-Gated Agent System](https://github.com/RexPiperisOlem/human-gated-agent-system)
 
@@ -106,27 +148,29 @@ The repository includes executable standard-library code, deterministic and fini
 
 ### [Published Documents](https://github.com/RexPiperisOlem/Notes)
 
-A public shelf of substantial finished work in artificial intelligence, cognition, recipe-production methodology, operational systems, speculative futures, and experimental literature.
+A public shelf of substantial finished work in artificial intelligence, cognition, recipe-production methodology, operational systems, systems proof, speculative futures, and experimental literature.
 
 The collection includes:
 
+- **Rebuilding the Room — Systems Paper 001**;
 - **The Dark Cognitive Manual**;
 - **Sixty AI Futures**;
 - **The Recipe Writing Production Guide**;
 - **A Zoo at the End of Winter**;
 - **Character Study**.
 
-**Demonstrates:** long-form analysis, Field Manual construction, subject-matter translation, scenario thinking, distinct voice systems, literary architecture, and completion of substantial public artifacts.
+**Demonstrates:** systems explanation, long-form analysis, Field Manual construction, subject-matter translation, scenario thinking, distinct voice systems, literary architecture, and completion of substantial public artifacts.
 
 ### [PPLL Signal Archive](https://github.com/RexPiperisOlem/PPLL-Signal-Archive)
 
-The main public index connecting released systems, documents, creative work, professional proof, the PPLL website, and the controlled boundary between public artifacts and the private production archive.
+The main public index connecting released systems, Systems Papers, documents, creative work, professional proof, the PPLL website, and the controlled boundary between public artifacts and the private production archive.
 
 ## Selected internal systems and operating work
 
 The public repositories show only part of the larger working practice. Additional inspectable or sanitizable work includes:
 
 - a twelve-agent private operating framework with intake, work orders, review, versioning, and run ledgers;
+- a private behavioural-reconstruction control stack used to convert repeated model failures and useful working conditions into explicit operating controls;
 - a multi-document voice and identity control stack;
 - read-only first-pass file inventory and recovery logic;
 - digital-product identity, attachment, version, test-order, and rollback procedures;
@@ -134,14 +178,18 @@ The public repositories show only part of the larger working practice. Additiona
 - more than one hundred products and related assets managed through a creative and commercial operating system;
 - coordinated doctrine covering strategic option preservation, human–machine authority, provenance-led research, value recovery, and evidence-backed capability translation.
 
-Private source documents, personal records, customer information, production Bibles, and unreleased systems are not posted publicly.
+Private source documents, raw calibration material, personal records, customer information, production Bibles, and unreleased systems are not posted publicly.
 
 ## Core capabilities
 
 - Artificial-intelligence workflow governance
 - Human-in-the-loop and human-oversight design
+- External behavioural-control architecture
+- State and mode discipline for long-running AI-assisted work
+- Behavioural drift, calibration, and recovery logic
 - Model-output evaluation and quality assurance
 - Documentation and knowledge architecture
+- Systems Papers and public-safe architecture explanation
 - Source tracking, provenance, and evidence grading
 - Standard operating procedures and Field Manuals
 - Process mapping and handoff design
@@ -160,12 +208,14 @@ I work best when the problem is real but not yet cleanly named.
 Examples:
 
 - a team is using AI but nobody can explain what was actually checked;
+- a model change has damaged a working process and the team can describe the frustration but not the behavioural mechanism;
 - knowledge lives in chats, screenshots, scattered files, and people’s memories;
 - an agent or workflow has unclear responsibility and approval boundaries;
 - the same mistake keeps happening without becoming a system improvement;
 - an old, fragmented, or abandoned body of material contains useful operating logic;
 - documentation technically exists but cannot be followed under real conditions;
 - a complex capability is valuable internally but sounds strange or inflated when described publicly;
+- a private system needs to become inspectable proof without exposing the full operating method;
 - a workflow assumes perfect stamina, easy mouse use, and unlimited manual repair.
 
 ## How I work
@@ -175,11 +225,12 @@ Examples:
 3. **Preserve source material and earlier versions.**
 4. **Separate evidence, inference, recommendation, and speculation.**
 5. **Make roles, inputs, outputs, gates, and stop conditions explicit.**
-6. **Test the artifact instead of trusting the description.**
-7. **Record failure and convert repeated failure into a control.**
-8. **Keep public material separate from private production systems.**
-9. **Require target-specific human approval for consequential external action.**
-10. **Make the strongest claim the evidence supports—and stop there.**
+6. **Track state before relying on fluent continuity.**
+7. **Test the artifact instead of trusting the description.**
+8. **Record failure and convert repeated failure into a control.**
+9. **Keep public material separate from private production systems.**
+10. **Require target-specific human approval for consequential external action.**
+11. **Make the strongest claim the evidence supports—and stop there.**
 
 ## Professional background
 
@@ -201,7 +252,7 @@ I hold three diplomas from Algonquin College of Applied Arts and Technology in O
 - Business Management and Entrepreneurship;
 - Hotel and Restaurant Operations Management.
 
-That background now feeds the way I build documentation, workflows, review systems, and practical controls.
+That background now feeds the way I build documentation, workflows, review systems, behavioural controls, and practical operating structures.
 
 ## Best-fit work
 
@@ -209,6 +260,7 @@ The strongest fit is remote, document-first, result-based work involving:
 
 - AI workflow governance or responsible-AI operations;
 - human oversight and approval architecture;
+- behavioural control and continuity through external operating systems;
 - documentation and knowledge operations;
 - model evaluation and quality review;
 - workflow mapping and failure analysis;
@@ -227,6 +279,8 @@ Credibility depends on stating what the work is not.
 I do not claim:
 
 - machine-learning engineering experience;
+- model-weight modification through external control documents;
+- hidden access to model internals;
 - production cloud or model deployment expertise;
 - legal, audit, clinical, or regulatory authority;
 - enterprise implementation where the evidence is internal design and operation;
@@ -238,7 +292,7 @@ I can work alongside technical, legal, privacy, security, compliance, preservati
 
 ## Contact
 
-For remote contract work, project collaboration, artificial-intelligence evaluation, workflow governance, documentation architecture, operational writing, or systems work:
+For remote contract work, project collaboration, artificial-intelligence evaluation, workflow governance, behavioural control, documentation architecture, operational writing, or systems work:
 
 **[info@paranoidpeoplelivelonger.com](mailto:info@paranoidpeoplelivelonger.com)**
 
