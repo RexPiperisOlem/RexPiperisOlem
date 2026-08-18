@@ -99,7 +99,9 @@ Methods for recovering useful operating logic from old documents, failed project
 
 A public proof-of-work series that explains built systems without publishing the complete private operating package.
 
-The first paper, **[Rebuilding the Room — Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room)**, documents an external behavioural-control architecture developed to preserve useful human-AI working conditions across model changes.
+#### [Rebuilding the Room — Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room)
+
+Documents an external behavioural-control architecture developed to preserve useful human-AI working conditions across model changes.
 
 The paper covers:
 
@@ -118,6 +120,16 @@ The public edition deliberately withholds raw calibration transcripts, private e
 **Demonstrates:** AI workflow governance, behavioural architecture, state integrity, calibration thinking, evidence discipline, failure-to-control translation, and the ability to make a private operating system publicly legible without giving away the complete engine.
 
 **Does not claim:** modification of model weights, hidden model access, restoration of unavailable capabilities, or a jailbreak.
+
+#### [From Job Search to Employment Intelligence — Systems Paper 002](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/002-ai-employment-radar)
+
+Documents a private AI Employment Radar built to turn a noisy AI job search into a constraint-first employment-intelligence system.
+
+The system was developed through sequential prototypes, beginning with a deliberately mixed batch of **30 live job listings**. Deep reading exposed the difference between a role that looks right conceptually and one that is actually usable, so feasibility was moved ahead of nuanced ranking. The final public architecture also separates evidence from aspiration, learns vocabulary from near misses, and keeps consequential application decisions under human control.
+
+**Demonstrates:** constraint-first decision architecture, AI-assisted evaluation, human oversight, evidence-backed capability translation, sequential prototyping, failure-to-infrastructure learning, knowledge and vocabulary operations, claims discipline, and public/private boundary design.
+
+The public edition deliberately withholds exact scoring mechanics, personal feasibility constraints, candidate-specific evidence, detailed search configuration, named test records, and the private operating Bible.
 
 ### [Human-Gated Agent System](https://github.com/RexPiperisOlem/human-gated-agent-system)
 
@@ -153,6 +165,7 @@ A public shelf of substantial finished work in artificial intelligence, cognitio
 The collection includes:
 
 - **Rebuilding the Room — Systems Paper 001**;
+- **From Job Search to Employment Intelligence — Systems Paper 002**;
 - **The Dark Cognitive Manual**;
 - **Sixty AI Futures**;
 - **The Recipe Writing Production Guide**;
@@ -171,6 +184,7 @@ The public repositories show only part of the larger working practice. Additiona
 
 - a twelve-agent private operating framework with intake, work orders, review, versioning, and run ledgers;
 - a private behavioural-reconstruction control stack used to convert repeated model failures and useful working conditions into explicit operating controls;
+- a private employment-intelligence system built around feasibility gating, evidence matching, deep reading, and human-approved action;
 - a multi-document voice and identity control stack;
 - read-only first-pass file inventory and recovery logic;
 - digital-product identity, attachment, version, test-order, and rollback procedures;
@@ -185,12 +199,14 @@ Private source documents, raw calibration material, personal records, customer i
 - Artificial-intelligence workflow governance
 - Human-in-the-loop and human-oversight design
 - External behavioural-control architecture
+- Constraint-first AI-assisted evaluation
 - State and mode discipline for long-running AI-assisted work
 - Behavioural drift, calibration, and recovery logic
 - Model-output evaluation and quality assurance
 - Documentation and knowledge architecture
 - Systems Papers and public-safe architecture explanation
 - Source tracking, provenance, and evidence grading
+- Evidence-backed capability translation
 - Standard operating procedures and Field Manuals
 - Process mapping and handoff design
 - Failure analysis and incident learning
@@ -209,6 +225,7 @@ Examples:
 
 - a team is using AI but nobody can explain what was actually checked;
 - a model change has damaged a working process and the team can describe the frustration but not the behavioural mechanism;
+- a retrieval system produces plenty of nominal matches but few decisions worth acting on;
 - knowledge lives in chats, screenshots, scattered files, and people’s memories;
 - an agent or workflow has unclear responsibility and approval boundaries;
 - the same mistake keeps happening without becoming a system improvement;
@@ -263,6 +280,7 @@ The strongest fit is remote, document-first, result-based work involving:
 - behavioural control and continuity through external operating systems;
 - documentation and knowledge operations;
 - model evaluation and quality review;
+- constraint-first opportunity or workflow evaluation;
 - workflow mapping and failure analysis;
 - standard operating procedure development;
 - source, provenance, and traceability controls;
