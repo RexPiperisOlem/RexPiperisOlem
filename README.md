@@ -115,7 +115,7 @@ Methods for recovering useful operating logic from old documents, failed project
 
 A public proof-of-work series that explains built systems without publishing the complete private operating package.
 
-#### [Rebuilding the Room — Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room)
+#### [Rebuilding the Room - Systems Paper 001](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/001-rebuilding-the-room)
 
 Documents an external behavioural-control architecture developed to preserve useful human-AI working conditions across model changes.
 
@@ -137,7 +137,7 @@ The public edition deliberately withholds raw calibration transcripts, private e
 
 **Does not claim:** modification of model weights, hidden model access, restoration of unavailable capabilities, or a jailbreak.
 
-#### [From Job Search to Employment Intelligence — Systems Paper 002](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/002-ai-employment-radar)
+#### [From Job Search to Employment Intelligence - Systems Paper 002](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/002-ai-employment-radar)
 
 Documents a private AI Employment Radar built to turn a noisy AI job search into a constraint-first employment-intelligence system.
 
@@ -147,7 +147,7 @@ The system was developed through sequential prototypes, beginning with a deliber
 
 The public edition deliberately withholds exact scoring mechanics, personal feasibility constraints, candidate-specific evidence, detailed search configuration, named test records, and the private operating Bible.
 
-#### [AI Claims Audit Stack — Systems Paper 003](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/003-ai-claims-audit-stack)
+#### [AI Claims Audit Stack - Systems Paper 003](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/003-ai-claims-audit-stack)
 
 Documents a private audit framework built to examine the evidence, model context, institutional controls, measurements, human decision paths, and public presentation behind AI-supported claims.
 
@@ -190,9 +190,9 @@ A public shelf of substantial finished work in artificial intelligence, cognitio
 
 The collection includes:
 
-- **Rebuilding the Room — Systems Paper 001**;
-- **From Job Search to Employment Intelligence — Systems Paper 002**;
-- **AI Claims Audit Stack — Systems Paper 003**;
+- **Rebuilding the Room - Systems Paper 001**;
+- **From Job Search to Employment Intelligence - Systems Paper 002**;
+- **AI Claims Audit Stack - Systems Paper 003**;
 - **The Dark Cognitive Manual**;
 - **Sixty AI Futures**;
 - **The Recipe Writing Production Guide**;
