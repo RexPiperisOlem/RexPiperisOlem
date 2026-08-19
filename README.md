@@ -13,6 +13,7 @@ My work focuses on the layer between artificial-intelligence capability and huma
 - creating review gates and acceptance criteria;
 - preserving sources, versions, and provenance;
 - controlling behavioural state, mode, and verification through external operating documents;
+- auditing the evidence, conditions, measurements, and human decision paths behind AI-supported claims;
 - documenting failures so the system does not pay for the same lesson repeatedly;
 - translating complex internal capability into truthful external language;
 - keeping consequential decisions under human control.
@@ -58,6 +59,21 @@ The work can include:
 
 This is **external behavioural control**, not a claim of model-weight modification or hidden access to model internals.
 
+### AI claims auditing and evaluation
+
+Frameworks for examining the process behind AI-supported conclusions rather than treating a model output, score, ranking, forecast, or apparent model consensus as self-explanatory.
+
+The work can include:
+
+- claim decomposition and consequential definitions;
+- evidence provenance and material exclusions;
+- model, version, tool, and execution context;
+- institutional authority, incentives, and practical leverage;
+- quantitative measurement, uncertainty, and generalization;
+- meaningful human oversight, contestability, appeal, and remedy;
+- lawful evidence access and auditability limits;
+- bounded findings that preserve material unknowns.
+
 ### Documentation architecture
 
 Connected document systems that turn scattered knowledge into durable operating infrastructure:
@@ -91,7 +107,7 @@ This includes:
 
 ### Knowledge recovery and capability translation
 
-Methods for recovering useful operating logic from old documents, failed projects, procedural residue, and large archives—then explaining the real capability without inventing credentials or pretending design work is enterprise deployment.
+Methods for recovering useful operating logic from old documents, failed projects, procedural residue, and large archives, then explaining the real capability without inventing credentials or pretending design work is enterprise deployment.
 
 ## Featured proof of work
 
@@ -131,6 +147,16 @@ The system was developed through sequential prototypes, beginning with a deliber
 
 The public edition deliberately withholds exact scoring mechanics, personal feasibility constraints, candidate-specific evidence, detailed search configuration, named test records, and the private operating Bible.
 
+#### [AI Claims Audit Stack — Systems Paper 003](https://github.com/RexPiperisOlem/Notes/tree/main/systems-papers/003-ai-claims-audit-stack)
+
+Documents a private audit framework built to examine the evidence, model context, institutional controls, measurements, human decision paths, and public presentation behind AI-supported claims.
+
+The framework treats auditability itself as part of accountability. It distinguishes evidence access from evidence quality, formal authority from practical leverage, a human reviewer from meaningful human control, and a numerical result from the broader claim made from that result. Material unknowns remain visible rather than being converted into assumptions.
+
+**Demonstrates:** AI evaluation and claims auditing, evidence and provenance architecture, human oversight and contestability analysis, institutional power and incentive mapping, quantitative-claim discipline, lawful evidence-access design, bounded findings, and public/private system-boundary design.
+
+The public edition deliberately withholds internal agent specifications, detailed prompts, recursive routing logic, branch and stopping mechanics, field cards, ledger design, validation records, and the complete private operating package.
+
 ### [Human-Gated Agent System](https://github.com/RexPiperisOlem/human-gated-agent-system)
 
 A complete public reference architecture for twelve narrow artificial-intelligence agents.
@@ -166,13 +192,14 @@ The collection includes:
 
 - **Rebuilding the Room — Systems Paper 001**;
 - **From Job Search to Employment Intelligence — Systems Paper 002**;
+- **AI Claims Audit Stack — Systems Paper 003**;
 - **The Dark Cognitive Manual**;
 - **Sixty AI Futures**;
 - **The Recipe Writing Production Guide**;
 - **A Zoo at the End of Winter**;
 - **Character Study**.
 
-**Demonstrates:** systems explanation, long-form analysis, Field Manual construction, subject-matter translation, scenario thinking, distinct voice systems, literary architecture, and completion of substantial public artifacts.
+**Demonstrates:** systems explanation, long-form analysis, Field Manual construction, subject-matter translation, AI-evaluation architecture, scenario thinking, distinct voice systems, literary architecture, and completion of substantial public artifacts.
 
 ### [PPLL Signal Archive](https://github.com/RexPiperisOlem/PPLL-Signal-Archive)
 
@@ -185,6 +212,7 @@ The public repositories show only part of the larger working practice. Additiona
 - a twelve-agent private operating framework with intake, work orders, review, versioning, and run ledgers;
 - a private behavioural-reconstruction control stack used to convert repeated model failures and useful working conditions into explicit operating controls;
 - a private employment-intelligence system built around feasibility gating, evidence matching, deep reading, and human-approved action;
+- a private AI-claims audit stack built around evidence access, provenance, model context, measurement, oversight, and bounded conclusions;
 - a multi-document voice and identity control stack;
 - read-only first-pass file inventory and recovery logic;
 - digital-product identity, attachment, version, test-order, and rollback procedures;
@@ -198,6 +226,8 @@ Private source documents, raw calibration material, personal records, customer i
 
 - Artificial-intelligence workflow governance
 - Human-in-the-loop and human-oversight design
+- AI evaluation and claims auditing
+- Evidence-access and auditability analysis
 - External behavioural-control architecture
 - Constraint-first AI-assisted evaluation
 - State and mode discipline for long-running AI-assisted work
@@ -206,6 +236,7 @@ Private source documents, raw calibration material, personal records, customer i
 - Documentation and knowledge architecture
 - Systems Papers and public-safe architecture explanation
 - Source tracking, provenance, and evidence grading
+- Quantitative-claim and generalization discipline
 - Evidence-backed capability translation
 - Standard operating procedures and Field Manuals
 - Process mapping and handoff design
@@ -224,6 +255,7 @@ I work best when the problem is real but not yet cleanly named.
 Examples:
 
 - a team is using AI but nobody can explain what was actually checked;
+- an AI-supported conclusion sounds objective but nobody can reconstruct the evidence, model conditions, measurement, or human decision path behind it;
 - a model change has damaged a working process and the team can describe the frustration but not the behavioural mechanism;
 - a retrieval system produces plenty of nominal matches but few decisions worth acting on;
 - knowledge lives in chats, screenshots, scattered files, and people’s memories;
@@ -247,7 +279,7 @@ Examples:
 8. **Record failure and convert repeated failure into a control.**
 9. **Keep public material separate from private production systems.**
 10. **Require target-specific human approval for consequential external action.**
-11. **Make the strongest claim the evidence supports—and stop there.**
+11. **Make the strongest claim the evidence supports and stop there.**
 
 ## Professional background
 
@@ -276,6 +308,7 @@ That background now feeds the way I build documentation, workflows, review syste
 The strongest fit is remote, document-first, result-based work involving:
 
 - AI workflow governance or responsible-AI operations;
+- AI evaluation, claims auditing, or evidence-bounded review;
 - human oversight and approval architecture;
 - behavioural control and continuity through external operating systems;
 - documentation and knowledge operations;
