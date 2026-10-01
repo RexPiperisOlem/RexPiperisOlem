@@ -8,6 +8,10 @@ My strongest work is not model training or autonomous-agent development. It is t
 
 ## Current public proof of work
 
+### [PPLL Systems Papers](https://github.com/RexPiperisOlem/PPLL-Systems-Papers)
+
+A five-paper public proof-of-work collection covering behavioural continuity, controlled art archives, human-controlled small-business infrastructure, continuity and handoff, and conversational work translation.
+
 ### [Human-Gated Agent System](https://github.com/RexPiperisOlem/human-gated-agent-system)
 
 A twelve-role public reference architecture with structured handoffs, gate levels, tests, provenance controls, review logic, and explicit human authority.
@@ -19,12 +23,6 @@ A bounded, tested Python prototype built around visible symbolic mutation, deter
 ### [PPLL Signal Archive](https://github.com/RexPiperisOlem/PPLL-Signal-Archive)
 
 The public index for selected PPLL systems, art and licensing information, and approved releases.
-
-## Publications under review
-
-Previously public documents and Systems Papers have been temporarily removed while they are rechecked for content, privacy, version accuracy, accessibility, licensing, and public-release status.
-
-The holding repository is here: [Publications Under Review](https://github.com/RexPiperisOlem/Notes).
 
 ## What I work on
 
@@ -40,7 +38,7 @@ The holding repository is here: [Publications Under Review](https://github.com/R
 
 ## Working boundary
 
-Private production Bibles, internal Radar engines, Pepper operating and voice systems, personal records, credentials, commercial records, raw source archives, and unreleased systems are not public GitHub material.
+Public repositories contain selected proof of work. Personal records, credentials, private source archives, commercial records, unreleased systems, and non-public implementation material stay outside the public GitHub.
 
 ## Background
 
